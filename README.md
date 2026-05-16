@@ -1,4 +1,4 @@
-# Public CV Hosting
+# Public CV
 
 This repository is used to host and serve my professional Curriculum Vitae (CV) via GitHub Pages. By maintaining this setup, I can ensure that recruiters, hiring managers, and academic or professional connections always have 
 access to the most up-to-date version of my CV through a single, static URL.
